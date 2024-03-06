@@ -1,0 +1,19 @@
+th{
+    font-weight: 800;
+    background-color: beige;
+    color:black;
+    text-align: center;
+}
+table{ 
+    font-family: cursive;
+    border-collapse:collapse;
+    border-width:5px;
+    border-style:double;
+    border-color:dimgrey;
+    
+}
+td{
+    text-align: center;
+}
+
+
